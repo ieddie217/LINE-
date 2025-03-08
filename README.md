@@ -8,9 +8,9 @@ The application provides:
 - An approval workflow system for marketing managers to review content
 - Automated notification and status tracking throughout the process
 
-![LINE@ Dashboard](Images/LINE%20Dashboard.png)
-![LINE@ Mobile View](Images/LINE%20Mobile.png)
-![LINE@ Request Form](Images/LINE%20Form.png)
+![LINE@ Dashboard](Images/LINE%20-%20Apply.png)
+![LINE@ Dashboard](Images/LINE%20-%20Marketing%20Schedule.png)
+![LINE@ Dashboard](Images/LINE%20-%20Planner.png)
 
 ## Key Features
 - **Marketing Request Submission**: Simple forms for users to submit promotional material for LINE campaigns.
