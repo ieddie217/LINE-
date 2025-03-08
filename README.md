@@ -9,7 +9,7 @@ The application provides:
 - Automated notification and status tracking throughout the process
 
 
-![LINE@ Dashboard](Images/LINE%20-%20Marketing%20Schedule.png)
+![LINE@ Dashboard](Images/LINE%20-%20Marketing.png)
 
 ## Key Features
 - **Marketing Request Submission**: Simple forms for users to submit promotional material for LINE campaigns.
