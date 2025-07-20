@@ -17,7 +17,6 @@ The application provides:
 - **Approval Workflow**: Multi-stage approval process via Planner with role-based permissions.
 ![LINE@ Dashboard](Images/LINE%20-%20Planner.png)
 - **Status Tracking**: Real-time visibility into where requests are in the approval pipeline.
-![LINE@ Dashboard](Images/LINESTATUS%20(1).png)
 ![LINE@ Dashboard](Images/LINESTATUS%20(2).png)
 ![LINE@ Dashboard](Images/LINESTATUS%20(3).png)
 
