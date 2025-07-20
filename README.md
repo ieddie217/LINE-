@@ -15,8 +15,8 @@ The application provides:
 - **Marketing Request Submission**: Simple forms for users to submit promotional material for LINE campaigns.
 ![LINE@ Dashboard](Images/LINE%20-%20Apply.png)
 - **Approval Workflow**: Multi-stage approval process via Planner with role-based permissions.
-- **Status Tracking**: Real-time visibility into where requests are in the approval pipeline.
 ![LINE@ Dashboard](Images/LINE%20-%20Planner.png)
+- **Status Tracking**: Real-time visibility into where requests are in the approval pipeline.
 
 - **Notification System**: Automated alerts for approvers and requesters at each stage via Teams and Outlook
 
